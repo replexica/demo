@@ -42,9 +42,10 @@ export default function Blog() {
       />
       <div className="gap-8 grid grid-cols-3">
         {loaderData.blogPosts.map((post) => (
-          <Link href={getLocalizedPathname(`/blog/${post.key}`, params.locale!)} key={post.key}>
+          <Link href={getLocalizedPathname(`/blog/${post.key}`, params.locale!)} key={post.key} className="w-full">
             <Card
               shadow="sm"
+              className="w-full"
               isPressable
             >
               <CardBody className="overflow-visible p-0">
@@ -52,7 +53,7 @@ export default function Blog() {
                   className="w-full object-cover h-[140px] bg-foreground-100 rounded-lg"
                 />
               </CardBody>
-              <CardFooter className="text-sm flex-col items-start">
+              <CardFooter className="text-sm flex-col items-start h-32">
                 <b>{post.attributes.title}</b>
                 <br />
                 <p className="text-foreground/80 text-left">{post.attributes.subtitle}</p>

@@ -2,7 +2,9 @@
   "locale": {
     "source": "en",
     "targets": [
-      "es"
+      "es",
+      "ar",
+      "hi"
     ]
   },
   "buckets": {
