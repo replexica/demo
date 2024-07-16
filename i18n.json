@@ -7,8 +7,8 @@
   },
   "buckets": {
     "public/i18n/[locale].json": "json",
-    "content/one/[locale].md": "markdown",
-    "content/two/[locale].md": "markdown",
-    "content/three/[locale].md": "markdown"
+    "public/content/one/[locale].md": "markdown",
+    "public/content/two/[locale].md": "markdown",
+    "public/content/three/[locale].md": "markdown"
   }
 }
