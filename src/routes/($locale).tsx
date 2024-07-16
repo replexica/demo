@@ -37,13 +37,18 @@ export const loader = async (args: LoaderFunctionArgs) => {
 export default function Root() {
   const loaderData = useLoaderData<typeof loader>();
   const navigate = useNavigate();
+  const isRtl = loaderData.locale.startsWith('ar') || loaderData.locale.startsWith('fa');
 
   return (
     <IntlProvider
       locale={loaderData.locale}
       messages={loaderData.localeData}
     >
-      <html lang={loaderData.locale} className={cn(`${demoConfig.theme} h-full text-foreground bg-background`)}>
+      <html
+        lang={loaderData.locale}
+        dir={isRtl ? 'rtl' : 'ltr'}
+        className={cn(`${demoConfig.theme} h-full text-foreground bg-background`)}
+      >
         <head>
           <meta charSet="utf-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
