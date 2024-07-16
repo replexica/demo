@@ -14,7 +14,6 @@ export type RootLayoutProps = {
 
 export default function RootLayout(props: RootLayoutProps) {
   const intl = useIntl();
-  console.log(props.locale);
 
   return (
     <NextUIProvider
