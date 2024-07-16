@@ -1,0 +1,40 @@
+version: 1
+checksums:
+  56f1d792e5cf2a49d9f48cfa2a009037:
+    landing.header: c3f69ea4c0c89d93a000709d6581ab2c
+    landing.subheader: e21c396b4e4501fff9509120c2b9539c
+    landing.cta.getStarted: 5c783951b0100a168bdd2161ff294833
+    landing.features.fast: ac37072964d75af0da1a793e033e52c3
+    landing.features.accurate: 9265115c87983f37db2c2cef75ae2924
+    app.signUp: 0dd2ae69be4618c1f9e615774a4509ca
+    app.username: 2ee65bc2dd2f12cf2672f95b2a054bf8
+    app.enterUsername: 576f2425b8e1960a514940d201783079
+    app.emailAddress: 0ee22bbbe989a0c61a18023407d12dc2
+    app.enterEmail: 39931962707c99b99a5a073ab579396b
+    app.password: 223a61cf906ab9c40d22612c588dff48
+    app.enterPassword: ea4fdd034522dead21bae0c0abb52eae
+    app.confirmPassword: 140bae95eb2040668118c6244c4a4825
+    app.confirmYourPassword: 224b4aa56991875af1df9d3b102de647
+    app.agreeTerms: 5c627028f90bc51dd906abcb567e0324
+    app.terms: c531b88ecfe7dd2337a34f4a9ed18a5f
+    app.and: ce8b9bb44f031705708a70e068bb73c8
+    app.privacyPolicy: 7459744a63ef8af4e517a09024bd7c08
+    app.or: 0208d355f231c386b19390f0bea41b95
+    app.signUpWithGoogle: ae82b623c9c9f5a17b48bbbc87c8ecc2
+    app.signUpWithGithub: ae9c2f754697be2950b17d207c41358d
+    app.alreadyHaveAccount: 699043a787e26ec2ecad53f52df28d5b
+    app.logIn: 0029e5a35676c0051e761fcd046ef9ee
+    blog.title: 7feb9b36be2028520ffe37de06505148
+    blog.subtitle: 0565b350c978509c28c11991ff3e5b24
+    rootlayout.logo.alt: 47fa6b3978c1c06acc29b6cae393b0c9
+    rootlayout.nav.home: 104a3db3b671c04e167eafbe21e57881
+    rootlayout.nav.app: 77e32ac4e5a1e01bc9a6a15fdfef9bf8
+    rootlayout.nav.blog: 7feb9b36be2028520ffe37de06505148
+    rootlayout.button.signin: ec7b8f314fe9bc6591006707484ede61
+    rootlayout.button.signup: 0dd2ae69be4618c1f9e615774a4509ca
+    rootlayout.footer.copyright: 80ad65b52a6626a3c1ab77a99f7f3a50
+    rootlayout.language.english: e1eeeb379f86a015d6e581fcbc4af7f3
+    rootlayout.language.spanish: e1cd9645ddb854071941a3a23af9eaaf
+  e4762645fc2e903a479d45e5c287d281: {}
+  f2b953645b9b627bf6deee3e385adc0e: {}
+  e1a4610b2e445c2d837d26ac48d4296a: {}
