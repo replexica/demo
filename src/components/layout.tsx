@@ -34,7 +34,7 @@ export default function RootLayout(props: RootLayoutProps) {
         className="flex justify-between items-center p-4 border-b border-foreground-100"
       >
         <div>
-          <Link href={getLocalizedPathname('/', props.locale)}>
+          <Link href={getLocalizedPathname('/', props.locale)} className="w-32">
             <img
               src={demoConfig.logoSrc}
               className="h-6"
