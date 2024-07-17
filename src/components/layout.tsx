@@ -89,7 +89,7 @@ export default function RootLayout(props: RootLayoutProps) {
           onSelectionChange={(keys: any) => {
             props.onLocaleChange(Array.from(keys)[0] as any);
           }}
-          className="max-w-52"
+          className="w-24"
         >
           {demoConfig.locales.map((locale) => (
             <SelectItem key={locale} value={locale} children={locale} />
