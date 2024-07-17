@@ -45,6 +45,9 @@ export default function RootLayout(props: RootLayoutProps) {
           <Link color="foreground" href={getLocalizedPathname('/', props.locale)}>
             <FormattedMessage id="rootlayout.nav.home" />
           </Link>
+          <Link color="foreground" href={getLocalizedPathname('/auth', props.locale)}>
+            <FormattedMessage id="rootlayout.nav.auth" />
+          </Link>
           <Link color="foreground" href={getLocalizedPathname('/app', props.locale)}>
             <FormattedMessage id="rootlayout.nav.app" />
           </Link>
@@ -53,10 +56,10 @@ export default function RootLayout(props: RootLayoutProps) {
           </Link>
         </div>
         <div className="flex gap-2">
-          <Button as={Link} href={getLocalizedPathname('/app', props.locale)} color="default">
+          <Button as={Link} href={getLocalizedPathname('/auth', props.locale)} color="default">
             <FormattedMessage id="rootlayout.button.signin" />
           </Button>
-          <Button as={Link} href={getLocalizedPathname('/app', props.locale)} color="primary">
+          <Button as={Link} href={getLocalizedPathname('/auth', props.locale)} color="primary">
             <FormattedMessage id="rootlayout.button.signup" />
           </Button>
         </div>

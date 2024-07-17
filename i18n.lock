@@ -6,29 +6,42 @@ checksums:
     landing.cta.getStarted: 4c3c49aa15e5c47ca0e266417e541669
     landing.features.fast: 2090aa4171dc0b60735069f89b592883
     landing.features.accurate: ae51443d033cb7dea112f957d81c9156
-    app.signUp: 0dd2ae69be4618c1f9e615774a4509ca
-    app.username: 2ee65bc2dd2f12cf2672f95b2a054bf8
-    app.enterUsername: 576f2425b8e1960a514940d201783079
-    app.emailAddress: 0ee22bbbe989a0c61a18023407d12dc2
-    app.enterEmail: 39931962707c99b99a5a073ab579396b
-    app.password: 223a61cf906ab9c40d22612c588dff48
-    app.enterPassword: ea4fdd034522dead21bae0c0abb52eae
-    app.confirmPassword: 140bae95eb2040668118c6244c4a4825
-    app.confirmYourPassword: 224b4aa56991875af1df9d3b102de647
-    app.agreeTerms: 5c627028f90bc51dd906abcb567e0324
-    app.terms: c531b88ecfe7dd2337a34f4a9ed18a5f
-    app.and: ce8b9bb44f031705708a70e068bb73c8
-    app.privacyPolicy: 7459744a63ef8af4e517a09024bd7c08
-    app.or: 0208d355f231c386b19390f0bea41b95
-    app.signUpWithGoogle: ae82b623c9c9f5a17b48bbbc87c8ecc2
-    app.signUpWithGithub: ae9c2f754697be2950b17d207c41358d
-    app.alreadyHaveAccount: 699043a787e26ec2ecad53f52df28d5b
-    app.logIn: 0029e5a35676c0051e761fcd046ef9ee
+    dashboard.title: 24905e71c67353fd8e285e96d68bb470
+    dashboard.subtitle: 2724dba24164716bd9b429c591e0037b
+    dashboard.totalSales: 141db98d8b16935252af83b8c808325f
+    dashboard.activeCampaigns: 66528fb7be796e378a42e154cc300629
+    dashboard.keywordPerformance: 832bdc62572eaae8e3a4e6302be9bdf2
+    dashboard.conversionRate: f09d90b078febb866c97e165213d9593
+    dashboard.aiBiddingPerformance: d44b7a0d2d29a01e04e7d70e6bf30dfb
+    dashboard.seoContentScore: 0956176595cdb0a02e3e3ec624602747
+    dashboard.orderFulfillmentRate: 07a9befba6b9ab77272a65281b76ad72
+    dashboard.customerSatisfaction: 11d7ef3ec39c00bdec42c1db854e287b
+    dashboard.revenueGrowth: e36446a218ed129953b22fe89feae54a
+    dashboard.marketShare: af1b5197d352ef1d0fa2d6cb007e90f6
+    auth.signUp: 0dd2ae69be4618c1f9e615774a4509ca
+    auth.username: 2ee65bc2dd2f12cf2672f95b2a054bf8
+    auth.enterUsername: 576f2425b8e1960a514940d201783079
+    auth.emailAddress: 0ee22bbbe989a0c61a18023407d12dc2
+    auth.enterEmail: 39931962707c99b99a5a073ab579396b
+    auth.password: 223a61cf906ab9c40d22612c588dff48
+    auth.enterPassword: ea4fdd034522dead21bae0c0abb52eae
+    auth.confirmPassword: 140bae95eb2040668118c6244c4a4825
+    auth.confirmYourPassword: 224b4aa56991875af1df9d3b102de647
+    auth.agreeTerms: 5c627028f90bc51dd906abcb567e0324
+    auth.terms: c531b88ecfe7dd2337a34f4a9ed18a5f
+    auth.and: ce8b9bb44f031705708a70e068bb73c8
+    auth.privacyPolicy: 7459744a63ef8af4e517a09024bd7c08
+    auth.or: 0208d355f231c386b19390f0bea41b95
+    auth.signUpWithGoogle: ae82b623c9c9f5a17b48bbbc87c8ecc2
+    auth.signUpWithGithub: ae9c2f754697be2950b17d207c41358d
+    auth.alreadyHaveAccount: 699043a787e26ec2ecad53f52df28d5b
+    auth.logIn: 0029e5a35676c0051e761fcd046ef9ee
     blog.title: 7feb9b36be2028520ffe37de06505148
     blog.subtitle: 0565b350c978509c28c11991ff3e5b24
     rootlayout.logo.alt: 47fa6b3978c1c06acc29b6cae393b0c9
     rootlayout.nav.home: 104a3db3b671c04e167eafbe21e57881
     rootlayout.nav.app: 77e32ac4e5a1e01bc9a6a15fdfef9bf8
+    rootlayout.nav.auth: 424e3635a6e3d9574f023c10cd5e6f62
     rootlayout.nav.blog: 7feb9b36be2028520ffe37de06505148
     rootlayout.button.signin: ec7b8f314fe9bc6591006707484ede61
     rootlayout.button.signup: 0dd2ae69be4618c1f9e615774a4509ca

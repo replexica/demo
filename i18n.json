@@ -2,6 +2,7 @@
   "locale": {
     "source": "en",
     "targets": [
+      "fr",
       "es",
       "ar",
       "hi"
@@ -9,6 +10,7 @@
   },
   "buckets": {
     "public/i18n/[locale].json": "json",
+
     "public/content/one/[locale].md": "markdown",
     "public/content/two/[locale].md": "markdown",
     "public/content/three/[locale].md": "markdown"

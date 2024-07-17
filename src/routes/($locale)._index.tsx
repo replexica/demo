@@ -1,12 +1,12 @@
 import { Icon } from "@iconify/react";
 import { Button, Link, Spacer } from "@nextui-org/react";
 import Container from "~/components/container";
-import { FormattedMessage } from 'react-intl';
+import { FormattedMessage, useIntl } from 'react-intl';
 import { getLocalizedPathname } from "~/utils";
-import { useParams } from "@remix-run/react";
 
 export default function Landing() {
-  const params = useParams<{ locale: string; }>();
+  const intl = useIntl();
+
   return (
     <Container className="text-center max-w-4xl">
       <Spacer y={36} />
@@ -19,7 +19,7 @@ export default function Landing() {
       </p>
       <Spacer y={12} />
       <div className="flex gap-4 justify-center">
-        <Button as={Link} className="btn" color="primary" size="lg" href={getLocalizedPathname('/app', params.locale!)}>
+        <Button as={Link} className="btn" color="primary" size="lg" href={getLocalizedPathname('/auth', intl.locale)}>
           <FormattedMessage id="landing.cta.getStarted" />
         </Button>
       </div>
