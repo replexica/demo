@@ -36,7 +36,7 @@ export default function RootLayout(props: RootLayoutProps) {
           <Link href={getLocalizedPathname('/', props.locale)} className="w-32">
             <img
               src={demoConfig.logoSrc}
-              className="h-6"
+              className="h-12"
               alt={intl.formatMessage({ id: "rootlayout.logo.alt" })}
             />
           </Link>
