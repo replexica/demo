@@ -1,9 +1,9 @@
 version: 1
 checksums:
   56f1d792e5cf2a49d9f48cfa2a009037:
-    landing.header: a1eee7bc5cf04a2442d22984899bebf4
-    landing.subheader: 2adfbd6d5a53589cda25e4819347065d
-    landing.cta.getStarted: a6ae64e842bac889c309fb68ff6ccb68
+    landing.header: 497b53078f3d2624956872b6b9e0c411
+    landing.subheader: de66945a22efedcb04d34e9c495f5922
+    landing.cta.getStarted: 4c3c49aa15e5c47ca0e266417e541669
     landing.features.fast: 2090aa4171dc0b60735069f89b592883
     landing.features.accurate: ae51443d033cb7dea112f957d81c9156
     app.signUp: cc8b6e727355b54f552b1a3bc89c3dd3
