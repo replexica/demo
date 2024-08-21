@@ -1,9 +1,9 @@
 version: 1
 checksums:
   56f1d792e5cf2a49d9f48cfa2a009037:
-    landing.header: 497b53078f3d2624956872b6b9e0c411
-    landing.subheader: de66945a22efedcb04d34e9c495f5922
-    landing.cta.getStarted: 4c3c49aa15e5c47ca0e266417e541669
+    landing.header: ff03446f5c2c3307fe6c4a858700c538
+    landing.subheader: 156fa152c2c513fa429461682f95b46c
+    landing.cta.getStarted: faae74911debb940b1f2b4a35f3a5ebf
     landing.features.fast: 2090aa4171dc0b60735069f89b592883
     landing.features.accurate: ae51443d033cb7dea112f957d81c9156
     dashboard.title: 24905e71c67353fd8e285e96d68bb470
@@ -48,42 +48,3 @@ checksums:
     rootlayout.footer.copyright: 80ad65b52a6626a3c1ab77a99f7f3a50
     rootlayout.language.english: e1eeeb379f86a015d6e581fcbc4af7f3
     rootlayout.language.spanish: e1cd9645ddb854071941a3a23af9eaaf
-  54dab387510cbf61e0237dce6124b777:
-    "0": 51adf33450cab2ef392e93147386647c
-    "1": 266aba78d80ed560160dc9996c2bfb09
-    "2": 51adf33450cab2ef392e93147386647c
-    "3": 6c1bd156be5138076bd8ba53f819c404
-    "4": 2378d54b6f6f07325f67bba960cfa845
-    "5": b95720eb3b5c8401b31f25b909df1da5
-    "6": 71a4b465383ec6a2097bcdb554b050cf
-    "7": a8e487a6929169e00bf836109de50be1
-    "8": 23790cf654c4b94431f46063f00d0a5f
-    "9": 4d10f871051b0cd07a8fdcfa5c3a134f
-    "10": d320b798a38975a75991c5c244f14f75
-    "11": 48b3642dbe6c3ff944c84badfa551ef3
-  d815c52d01c1a3fbec3fd69c1aa7fbe4:
-    "0": 51adf33450cab2ef392e93147386647c
-    "1": 5fd172f52d9db2aeb431166a03b094d1
-    "2": 51adf33450cab2ef392e93147386647c
-    "3": 6c1bd156be5138076bd8ba53f819c404
-    "4": 733bc2210de34e8aff5ad3e4439022ce
-    "5": 371fc24536d8a98f51864fcb31fea3fc
-    "6": 3194d34368cbdd9f559fff3ef44ea34f
-    "7": eefae5e5104b54ae74a8b6412286e92b
-    "8": b2f830b1de3ed31fafa8998cf7658dd8
-    "9": ff80a274eb63cf690cac10c826114cd9
-    "10": 5adc4855ae01ce8bc8b698e383dd7631
-    "11": dfe30020122a00904054d51668a974dd
-  daed206a23d6612b884a805fff0ae940:
-    "0": 51adf33450cab2ef392e93147386647c
-    "1": 42d12221ad3f8a4442687e425a1e40a3
-    "2": 51adf33450cab2ef392e93147386647c
-    "3": 6c1bd156be5138076bd8ba53f819c404
-    "4": 83844ef5b7efcab97c9554cb6fe80868
-    "5": 2a624e451c349b0773be121cd0e3051a
-    "6": 2ddcd9a9cc60ff9eb3ca3697b59a2dd1
-    "7": fc02e144eb90a63c4d61c73e9d1f7dd5
-    "8": de211dd21b4e54fec1b62646386a339a
-    "9": 8b1710dcfef8e6485f52d8185f63435f
-    "10": 444d9d915c59dd580c1915906b462f57
-    "11": 338da98d24762705476503374d8af584

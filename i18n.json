@@ -1,4 +1,5 @@
 {
+  "version": 1.2,
   "locale": {
     "source": "en",
     "targets": [
@@ -9,10 +10,17 @@
     ]
   },
   "buckets": {
-    "public/i18n/[locale].json": "json",
-
-    "public/content/one/[locale].md": "markdown",
-    "public/content/two/[locale].md": "markdown",
-    "public/content/three/[locale].md": "markdown"
+    "json": {
+      "include": [
+        "public/i18n/[locale].json"
+      ]
+    },
+    "markdown": {
+      "include": [
+        "public/content/one/[locale].md",
+        "public/content/two/[locale].md",
+        "public/content/three/[locale].md"
+      ]
+    }
   }
 }
