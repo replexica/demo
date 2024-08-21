@@ -15,7 +15,7 @@ const blogPostKeys = [
 export const loader = async (args: LoaderFunctionArgs) => {
   const locale = args.params.locale as string || "en";
   const blogPostPromises = blogPostKeys.map((key) => fetch(
-    new URL(`/content/${key}/${locale}.md`, args.request.url)
+    new URL(`/content/${locale}/${key}.md`, args.request.url)
   ).then((res) => res.text()));
   const blogPosts = await Promise.all(blogPostPromises);
 

@@ -8,7 +8,7 @@ export const loader = async (args: LoaderFunctionArgs) => {
     const slug = args.params.slug as string;
     const locale = args.params.locale as string || "en";
     const contentRes = await fetch(
-      new URL(`/content/${slug}/${locale}.md`, args.request.url)
+      new URL(`/content/${locale}/${slug}.md`, args.request.url)
     );
 
     const content = await contentRes.text();

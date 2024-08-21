@@ -6,18 +6,8 @@ checksums:
     landing.cta.getStarted: faae74911debb940b1f2b4a35f3a5ebf
     landing.features.fast: 2090aa4171dc0b60735069f89b592883
     landing.features.accurate: ae51443d033cb7dea112f957d81c9156
-    dashboard.title: 24905e71c67353fd8e285e96d68bb470
-    dashboard.subtitle: 2724dba24164716bd9b429c591e0037b
-    dashboard.totalSales: 141db98d8b16935252af83b8c808325f
-    dashboard.activeCampaigns: 66528fb7be796e378a42e154cc300629
-    dashboard.keywordPerformance: 832bdc62572eaae8e3a4e6302be9bdf2
-    dashboard.conversionRate: f09d90b078febb866c97e165213d9593
-    dashboard.aiBiddingPerformance: d44b7a0d2d29a01e04e7d70e6bf30dfb
-    dashboard.seoContentScore: 0956176595cdb0a02e3e3ec624602747
-    dashboard.orderFulfillmentRate: 07a9befba6b9ab77272a65281b76ad72
-    dashboard.customerSatisfaction: 11d7ef3ec39c00bdec42c1db854e287b
-    dashboard.revenueGrowth: e36446a218ed129953b22fe89feae54a
-    dashboard.marketShare: af1b5197d352ef1d0fa2d6cb007e90f6
+    dashboard.title: 26019093038ae75218ed304b4928da31
+    dashboard.subtitle: 27c516f85cc267c7438809eb09e9ccd7
     auth.signUp: 0dd2ae69be4618c1f9e615774a4509ca
     auth.username: 2ee65bc2dd2f12cf2672f95b2a054bf8
     auth.enterUsername: 576f2425b8e1960a514940d201783079
@@ -46,5 +36,48 @@ checksums:
     rootlayout.button.signin: ec7b8f314fe9bc6591006707484ede61
     rootlayout.button.signup: 0dd2ae69be4618c1f9e615774a4509ca
     rootlayout.footer.copyright: 80ad65b52a6626a3c1ab77a99f7f3a50
-    rootlayout.language.english: e1eeeb379f86a015d6e581fcbc4af7f3
-    rootlayout.language.spanish: e1cd9645ddb854071941a3a23af9eaaf
+  edadd08db5ea4755a3baba4cc34e572e:
+    markdown-line-0: 41df1ef76b49a4a5b845503fb3b13680
+    markdown-line-1: a996634b3d04639698db40200218149b
+    markdown-line-2: a63604d5bf3d5f2ce0ed0500ec639405
+    markdown-line-3: 11fd03653b58317a14da743c219a38a9
+    markdown-line-4: cc36a6c6e74708ec488880e3009fa141
+    markdown-line-5: 143ed8a781b0253a524a154b017c6765
+    markdown-line-6: 68c1881ce1b2721691c95347065e1997
+    markdown-line-7: 0ab58016eab6d08c1b7deaa3935421c7
+    markdown-line-8: aaf11a1ad2770980d1df8331c8b35e5b
+    markdown-line-9: dd90b7ac30b31b965c3ffd681240ebdd
+    markdown-line-10: 51adf33450cab2ef392e93147386647c
+    markdown-line-11: e42c59678a02f9ad931a67acadf01f1b
+    frontmatter-attribute-title: d9cc5a85185fc28f985b6a4d29d004cc
+    frontmatter-attribute-subtitle: fcc45a782253b55cccbf6955bea0b326
+  b7a2d639bee077992c546242ea32449c:
+    markdown-line-0: 1bdbff5d75b65eba372581df56c9a988
+    markdown-line-1: 5e898d3df01c7a331c15cbcb1632796b
+    markdown-line-2: 5262bba01b53ea1bac7250e3732219a9
+    markdown-line-3: cb9ebf63596aa990b175db624b5f9b51
+    markdown-line-4: 14c07462bbaa0f1c4c005cdf2e09821e
+    markdown-line-5: 17fca06bbf1e303e8e2a208ba436b1bd
+    markdown-line-6: 4489e1605a59276a045e751c14b71c2d
+    markdown-line-7: 757e3495cd27fb9e7e17ab69fb310aba
+    markdown-line-8: c92bbe2aeec8a47175b2efd622585353
+    markdown-line-9: 1c112dc8e018a7b9b1c65b947d989e97
+    markdown-line-10: 51adf33450cab2ef392e93147386647c
+    markdown-line-11: 62df4aef4410664bdee03091f10cc785
+    frontmatter-attribute-title: b120e5225c1460a0d7ae7382e954545e
+    frontmatter-attribute-subtitle: 8965e06397eed2d912281837764daf55
+  02f939c432024c0876f1ad5bdcb74484:
+    markdown-line-0: 658e45e01f3099eff0459ee8ddf34f0e
+    markdown-line-1: ebcc84ef567edd610bdfd4462025d2c2
+    markdown-line-2: 7dce67ba21035da19a96380535ad1ab2
+    markdown-line-3: dd13ab463e55cb5216bdaf0fa1c35f27
+    markdown-line-4: 067810725d6c93b2312738021754085b
+    markdown-line-5: 6f69f97acf9be942016e62220d65633c
+    markdown-line-6: cce9d0a9b4428f30858288ca4db87157
+    markdown-line-7: 773ada4d9876a4a843ad1070f7764d4b
+    markdown-line-8: ae961d03465a3bab410e6eb3ba1a0d84
+    markdown-line-9: 7ec54c0d9a55ad47dd4b475155e3d378
+    markdown-line-10: 51adf33450cab2ef392e93147386647c
+    markdown-line-11: 0b6b7c50ea065ced1feaebed5e416cc2
+    frontmatter-attribute-title: e1627fd610fbad411927c63f5d1611e6
+    frontmatter-attribute-subtitle: b7515a682ff981437e4db4fac9344d6d

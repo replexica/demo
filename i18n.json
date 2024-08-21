@@ -6,7 +6,8 @@
       "fr",
       "es",
       "ar",
-      "hi"
+      "hi",
+      "ru"
     ]
   },
   "buckets": {
@@ -17,9 +18,7 @@
     },
     "markdown": {
       "include": [
-        "public/content/one/[locale].md",
-        "public/content/two/[locale].md",
-        "public/content/three/[locale].md"
+        "public/content/[locale]/*.md"
       ]
     }
   }
