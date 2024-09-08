@@ -23,7 +23,7 @@
   "auth.signUpWithGoogle": "Google के साथ साइन अप करें",
   "auth.signUpWithGithub": "Github के साथ साइन अप करें",
   "auth.alreadyHaveAccount": "पहले से ही एक खाता है?",
-  "auth.logIn": "लॉग इन करें",
+  "auth.logIn": "साइन इन करें",
   "blog.title": "ब्लॉग",
   "blog.subtitle": "यहाँ कुछ ब्लॉग पोस्ट हैं जो आपको रुचिकर लग सकती हैं।",
   "rootlayout.logo.alt": "लोगो",

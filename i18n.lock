@@ -25,7 +25,7 @@ checksums:
     auth.signUpWithGoogle: ae82b623c9c9f5a17b48bbbc87c8ecc2
     auth.signUpWithGithub: ae9c2f754697be2950b17d207c41358d
     auth.alreadyHaveAccount: 699043a787e26ec2ecad53f52df28d5b
-    auth.logIn: 0029e5a35676c0051e761fcd046ef9ee
+    auth.logIn: cb8757c7450e17de1e226e82fb0fa4a2
     blog.title: 7feb9b36be2028520ffe37de06505148
     blog.subtitle: 0565b350c978509c28c11991ff3e5b24
     rootlayout.logo.alt: 47fa6b3978c1c06acc29b6cae393b0c9
