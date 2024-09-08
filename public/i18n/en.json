@@ -23,7 +23,7 @@
   "auth.signUpWithGoogle": "Sign Up with Google",
   "auth.signUpWithGithub": "Sign Up with Github",
   "auth.alreadyHaveAccount": "Already have an account?",
-  "auth.logIn": "Log In",
+  "auth.logIn": "Sign in",
   "blog.title": "Blog",
   "blog.subtitle": "Here are some blog posts that you might be interested in.",
   "rootlayout.logo.alt": "Logo",
