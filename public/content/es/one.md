@@ -5,13 +5,13 @@ subtitle: Estrategias y Métricas para Mejorar el Rendimiento del Desarrollo de 
 
 # Aumentando la Productividad del Equipo de Ingeniería
 
-Los gerentes de ingeniería buscan constantemente formas de mejorar el rendimiento del equipo. Vamos a explorar estrategias clave y métricas que pueden impulsar la productividad en los equipos de desarrollo de software.
+Los gerentes de ingeniería buscan constantemente formas de mejorar el rendimiento del equipo. Exploremos estrategias y métricas clave que pueden impulsar la productividad en los equipos de desarrollo de software.
 
 ## Implementación de Prácticas Ágiles Efectivas
 
-Las metodologías ágiles, cuando se aplican correctamente, pueden aumentar significativamente la productividad del equipo. Comienza estableciendo objetivos claros para los sprints y realizando reuniones diarias. Fomenta que los miembros del equipo se responsabilicen de las tareas y colaboren en la resolución de problemas.
+Las metodologías ágiles, cuando se aplican correctamente, pueden aumentar significativamente la productividad del equipo. Comienza estableciendo objetivos claros para los sprints y realizando reuniones diarias. Fomenta que los miembros del equipo se apropien de las tareas y colaboren en la resolución de problemas.
 
-Promueve la transparencia mediante tableros de tareas visibles y seguimiento del progreso. Esto permite al equipo identificar cuellos de botella rápidamente y ajustar su enfoque según sea necesario.
+Promueve la transparencia a través de tableros de tareas visibles y seguimiento del progreso. Esto permite al equipo identificar cuellos de botella rápidamente y ajustar su enfoque según sea necesario.
 
 Revisa y perfecciona regularmente tus procesos ágiles. Lo que funciona para un equipo puede no funcionar para otro, así que prepárate para adaptar tus métodos basándote en los comentarios y resultados.
 
@@ -31,7 +31,7 @@ Promueve el intercambio de conocimientos dentro del equipo a través de charlas 
 
 Considera implementar un programa de mentoría donde los desarrolladores experimentados puedan guiar a los miembros más jóvenes del equipo. Esto acelera el desarrollo de habilidades y ayuda a mantener el conocimiento institucional.
 
-## Bonus: Equilibrar la Deuda Técnica y la Innovación
+## Bonus: Equilibrando la Deuda Técnica y la Innovación
 
 Gestionar la deuda técnica es crucial para la productividad a largo plazo. Asigna tiempo en cada sprint para abordar la deuda técnica existente, evitando que se acumule y ralentice el desarrollo futuro.
 

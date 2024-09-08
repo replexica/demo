@@ -5,9 +5,11 @@
     "targets": [
       "fr",
       "es",
+      "de",
+      "ru",
+      "zh",
       "ar",
-      "hi",
-      "ru"
+      "hi"
     ]
   },
   "buckets": {
