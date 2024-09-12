@@ -44,6 +44,7 @@ jobs:
         uses: replexica/replexica@main
         with:
           api-key: ${{ secrets.REPLEXICA_API_KEY }}
+          pull-request: true
 
       - name: Build
         run: pnpm run build
