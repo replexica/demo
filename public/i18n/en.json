@@ -8,7 +8,7 @@
   "dashboard.subtitle": "Your usage data is displayed here. This is just a demo, so the data is not real.",
   "auth.signUp": "Sign Up",
   "auth.username": "Username",
-  "auth.enterUsername": "Enter your username",
+  "auth.enterUsername": "Enter username",
   "auth.emailAddress": "Email Address",
   "auth.enterEmail": "Enter your email address",
   "auth.password": "Password",
