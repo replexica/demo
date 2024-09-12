@@ -10,7 +10,7 @@
   "auth.username": "Username",
   "auth.enterUsername": "Enter your username",
   "auth.emailAddress": "Email Address",
-  "auth.enterEmail": "Enter your email",
+  "auth.enterEmail": "Enter your email address",
   "auth.password": "Password",
   "auth.enterPassword": "Enter your password",
   "auth.confirmPassword": "Confirm Password",
