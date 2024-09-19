@@ -1,18 +1,18 @@
 version: 1
 checksums:
   56f1d792e5cf2a49d9f48cfa2a009037:
-    landing.header: ff03446f5c2c3307fe6c4a858700c538
+    landing.header: 537ba141cf9af666085b30c6130cafc0
     landing.subheader: 156fa152c2c513fa429461682f95b46c
     landing.cta.getStarted: faae74911debb940b1f2b4a35f3a5ebf
     landing.features.fast: 2090aa4171dc0b60735069f89b592883
     landing.features.accurate: ae51443d033cb7dea112f957d81c9156
-    dashboard.title: 26019093038ae75218ed304b4928da31
+    dashboard.title: bd3f5fa7c646f7f9cc8dd0025586371e
     dashboard.subtitle: 27c516f85cc267c7438809eb09e9ccd7
     auth.signUp: 0dd2ae69be4618c1f9e615774a4509ca
     auth.username: 2ee65bc2dd2f12cf2672f95b2a054bf8
-    auth.enterUsername: 576f2425b8e1960a514940d201783079
+    auth.enterUsername: ceca9941c44bf894fcef74b8c050d714
     auth.emailAddress: 0ee22bbbe989a0c61a18023407d12dc2
-    auth.enterEmail: 39931962707c99b99a5a073ab579396b
+    auth.enterEmail: 9bc008365ebe3e404e241c8ca876f56e
     auth.password: 223a61cf906ab9c40d22612c588dff48
     auth.enterPassword: ea4fdd034522dead21bae0c0abb52eae
     auth.confirmPassword: 140bae95eb2040668118c6244c4a4825
