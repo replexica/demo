@@ -1,6 +1,6 @@
 ---
 title: Optimierung von Code-Review-Prozessen für Entwicklerteams
-subtitle: Steigerung der Effizienz und Effektivität in der Softwarequalitätssicherung
+subtitle: Steigerung von Effizienz und Effektivität in der Softwarequalitätssicherung
 ---
 
 # Optimierung von Code-Review-Prozessen für Entwicklerteams
@@ -33,11 +33,12 @@ Erwägen Sie die Einführung von Pair-Programming-Sitzungen für komplexe Funkti
 
 ## Bonus: Messung und Verbesserung der Review-Effizienz
 
-Verfolgen Sie Metriken wie die Bearbeitungszeit von Reviews, die Anzahl der Kommentare pro Review und den Code-Churn nach Reviews. Nutzen Sie diese Metriken, um Engpässe in Ihrem Review-Prozess zu identifizieren.
+Verfolgen Sie Metriken wie die Bearbeitungszeit von Reviews, die Anzahl der Kommentare pro Review und die Code-Änderungen nach Reviews. Nutzen Sie diese Metriken, um Engpässe in Ihrem Review-Prozess zu identifizieren.
 
 Experimentieren Sie mit verschiedenen Review-Formaten, wie Gruppenreviews für kritische Funktionen oder zeitlich begrenzte Review-Sitzungen. Finden Sie heraus, was am besten zur Dynamik Ihres Teams und den Projektanforderungen passt.
 
 Holen Sie regelmäßig Feedback von Ihrem Team zum Review-Prozess ein. Seien Sie offen dafür, Ihren Ansatz basierend auf diesem Feedback anzupassen, um die Effizienz und Effektivität kontinuierlich zu verbessern.
 
 ---
-Zusammenfassend lässt sich sagen, dass die Optimierung Ihres Code-Review-Prozesses die Produktivität und Codequalität Ihres Teams erheblich verbessern kann. Durch die Festlegung klarer Richtlinien, den Einsatz von Automatisierung, die Förderung einer positiven Kultur und die kontinuierliche Messung und Verbesserung können Sie einen Review-Prozess schaffen, der einen echten Mehrwert für Ihren Entwicklungsworkflow bietet.
+
+Zusammenfassend lässt sich sagen, dass die Optimierung Ihres Code-Review-Prozesses die Produktivität und Codequalität Ihres Teams erheblich steigern kann. Durch die Festlegung klarer Richtlinien, den Einsatz von Automatisierung, die Förderung einer positiven Kultur und die kontinuierliche Messung und Verbesserung können Sie einen Review-Prozess schaffen, der einen echten Mehrwert für Ihren Entwicklungsworkflow bietet.

@@ -1,6 +1,7 @@
 ---
 title: Allocation efficace des ressources dans les projets d'ingénierie logicielle
-subtitle: Maximiser le potentiel de l'équipe et le succès des projets grâce à une gestion stratégique
+subtitle: Maximiser le potentiel de l'équipe et le succès des projets grâce à
+  une gestion stratégique
 ---
 
 # Allocation efficace des ressources dans les projets de génie logiciel
@@ -40,4 +41,5 @@ Encouragez les membres de l'équipe à développer de nouvelles compétences qui
 Envisagez de faire tourner périodiquement les rôles ou les responsabilités. Cela peut prévenir l'ennui, élargir les compétences et apporter de nouvelles perspectives sur différents aspects de vos projets.
 
 ---
+
 En conclusion, une allocation efficace des ressources est un processus dynamique qui nécessite une attention et des ajustements constants. En comprenant les capacités de votre équipe, en mettant en œuvre des stratégies flexibles, en équilibrant les charges de travail et en favorisant le développement des compétences, vous pouvez optimiser les performances de votre équipe et assurer le succès de vos projets.

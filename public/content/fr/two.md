@@ -27,17 +27,18 @@ Intégrez ces vérifications automatisées dans votre pipeline CI/CD pour fourni
 
 Soulignez que les revues de code sont des opportunités d'apprentissage, pas des séances de critique. Encouragez les examinateurs à fournir des commentaires constructifs et à expliquer le raisonnement derrière leurs suggestions.
 
-Promouvez une culture où tous les membres de l'équipe, quel que soit leur ancienneté, peuvent contribuer aux revues. Cela aide à diffuser les connaissances et améliore la qualité globale du code.
+Promouvez une culture où tous les membres de l'équipe, indépendamment de leur ancienneté, peuvent contribuer aux revues. Cela aide à diffuser les connaissances et améliore la qualité globale du code.
 
 Envisagez de mettre en place des sessions de programmation en binôme pour les fonctionnalités complexes. Cela peut réduire le besoin de revues approfondies ultérieures et favoriser le partage de connaissances en temps réel.
 
 ## Bonus : Mesurer et améliorer l'efficacité des revues
 
-Suivez des métriques telles que le délai de traitement des revues, le nombre de commentaires par revue et les modifications de code après les revues. Utilisez ces métriques pour identifier les goulots d'étranglement dans votre processus de revue.
+Suivez des métriques telles que le temps de traitement des revues, le nombre de commentaires par revue et les modifications de code après les revues. Utilisez ces métriques pour identifier les goulots d'étranglement dans votre processus de revue.
 
 Expérimentez différents formats de revue, comme des revues en groupe pour les fonctionnalités critiques ou des sessions de revue chronométrées. Trouvez ce qui convient le mieux à la dynamique de votre équipe et aux besoins du projet.
 
 Sollicitez régulièrement les retours de votre équipe sur le processus de revue. Soyez ouvert à l'ajustement de votre approche en fonction de ces retours pour améliorer continuellement l'efficacité et l'efficience.
 
 ---
+
 En conclusion, l'optimisation de votre processus de revue de code peut considérablement améliorer la productivité de votre équipe et la qualité du code. En établissant des directives claires, en tirant parti de l'automatisation, en favorisant une culture positive et en mesurant et améliorant continuellement, vous pouvez créer un processus de revue qui apporte une réelle valeur ajoutée à votre flux de développement.
