@@ -1,5 +1,5 @@
 {
-  "landing.header": "Sofortige KI-Lokalisierung für mehrsprachige Apps und Websites",
+  "landing.header": "Sofortige KI-Lokalisierung für mehrsprachige Apps & Websites",
   "landing.subheader": "Reduzieren Sie Zykluszeit und Kosten und führen Sie häufigere Bereitstellungen mit unserer KI-gestützten Lokalisierungsplattform durch.",
   "landing.cta.getStarted": "Jetzt registrieren",
   "landing.features.fast": "Keine Kreditkarte erforderlich",
@@ -22,7 +22,7 @@
   "auth.or": "ODER",
   "auth.signUpWithGoogle": "Mit Google registrieren",
   "auth.signUpWithGithub": "Mit Github registrieren",
-  "auth.alreadyHaveAccount": "Sie haben bereits ein Konto?",
+  "auth.alreadyHaveAccount": "Haben Sie bereits ein Konto?",
   "auth.logIn": "Anmelden",
   "blog.title": "Blog",
   "blog.subtitle": "Hier sind einige Blogbeiträge, die Sie interessieren könnten.",
