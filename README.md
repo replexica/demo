@@ -7,3 +7,4 @@ To customize this demo, use the current repo as a template and modify the follow
 1. `public/content` - to add the test articles relevant to the customer;
 1. `src/demo-config.ts` - to configure the name of the demo, brand logo, and the theme;
 1. `src/routes/($locale)._index.tsx` - to customize the demo's landing to look like the customer's website.
+
