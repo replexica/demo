@@ -8,13 +8,13 @@ subtitle: Mejorando la eficiencia y la eficacia en el aseguramiento de la
 
 Las revisiones de código son cruciales para mantener la calidad del código y compartir conocimientos. Exploremos estrategias para hacer este proceso más eficiente y efectivo para los equipos de ingeniería.
 
-## Establecimiento de pautas claras de revisión
+## Establecimiento de directrices claras de revisión
 
-Crea una lista de verificación exhaustiva para la revisión de código que cubra aspectos tanto técnicos como no técnicos. Incluye elementos como el estilo de código, consideraciones de rendimiento y mejores prácticas de seguridad.
+Crea una lista de verificación completa para la revisión de código que cubra aspectos tanto técnicos como no técnicos. Incluye elementos como el estilo de código, consideraciones de rendimiento y mejores prácticas de seguridad.
 
 Anima a los revisores a centrarse en los problemas más importantes en lugar de criticar detalles menores. Esto ayuda a mantener un equilibrio entre la minuciosidad y la eficiencia.
 
-Actualiza regularmente estas pautas basándote en la retroalimentación del equipo y las mejores prácticas en evolución. Esto asegura que tu proceso de revisión siga siendo relevante y valioso con el tiempo.
+Actualiza regularmente estas directrices basándote en los comentarios del equipo y las mejores prácticas en evolución. Esto asegura que tu proceso de revisión siga siendo relevante y valioso con el tiempo.
 
 ## Aprovechamiento de la automatización en las revisiones de código
 
@@ -36,7 +36,7 @@ Considera implementar sesiones de programación en pareja para características 
 
 Haz un seguimiento de métricas como el tiempo de respuesta de las revisiones, el número de comentarios por revisión y los cambios en el código después de las revisiones. Utiliza estas métricas para identificar cuellos de botella en tu proceso de revisión.
 
-Experimenta con diferentes formatos de revisión, como revisiones en grupo para funciones críticas o sesiones de revisión con tiempo limitado. Encuentra lo que mejor funciona para la dinámica de tu equipo y las necesidades del proyecto.
+Experimenta con diferentes formatos de revisión, como revisiones en grupo para características críticas o sesiones de revisión con tiempo limitado. Encuentra lo que mejor funciona para la dinámica de tu equipo y las necesidades del proyecto.
 
 Solicita regularmente comentarios de tu equipo sobre el proceso de revisión. Mantén una actitud abierta para ajustar tu enfoque basándote en estos comentarios y mejorar continuamente la eficiencia y la eficacia.
 
