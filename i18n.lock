@@ -1,7 +1,7 @@
 version: 1
 checksums:
   56f1d792e5cf2a49d9f48cfa2a009037:
-    landing.header: f33d8e56af726e948ce8fc101756998f
+    landing.header: 5d1cfb331ca17e100aa22b885aebc8f1
     landing.subheader: 4b2696d86e67a83b989804b0c40a9dbc
     landing.cta.getStarted: 70217f3c73ff414d22893a4f13be84d6
     landing.features.fast: 2090aa4171dc0b60735069f89b592883
