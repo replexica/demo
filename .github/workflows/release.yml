@@ -46,7 +46,6 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         with:
           api-key: ${{ secrets.REPLEXICA_API_KEY }}
-          pull-request: true
 
       - name: Build
         run: pnpm run build
