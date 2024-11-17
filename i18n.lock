@@ -18,7 +18,7 @@ checksums:
     auth.confirmPassword: 140bae95eb2040668118c6244c4a4825
     auth.confirmYourPassword: 224b4aa56991875af1df9d3b102de647
     auth.agreeTerms: 5c627028f90bc51dd906abcb567e0324
-    auth.terms: c531b88ecfe7dd2337a34f4a9ed18a5f
+    auth.terms: 9ac262b2eda552beeecd904c0b9f8fa2
     auth.and: ce8b9bb44f031705708a70e068bb73c8
     auth.privacyPolicy: 7459744a63ef8af4e517a09024bd7c08
     auth.or: 0208d355f231c386b19390f0bea41b95
