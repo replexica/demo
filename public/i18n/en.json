@@ -16,7 +16,7 @@
   "auth.confirmPassword": "Confirm Password",
   "auth.confirmYourPassword": "Confirm your password",
   "auth.agreeTerms": "I agree with the",
-  "auth.terms": "Terms",
+  "auth.terms": "Terms of Use",
   "auth.and": "and",
   "auth.privacyPolicy": "Privacy Policy",
   "auth.or": "OR",
@@ -33,5 +33,5 @@
   "rootlayout.nav.blog": "Blog",
   "rootlayout.button.signin": "Sign In",
   "rootlayout.button.signup": "Sign Up",
-  "rootlayout.footer.copyright": "{name} © {year}"
+  "rootlayout.footer.copyright": "{name} ï¿½ {year}"
 }
