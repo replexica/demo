@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Button, Input, Checkbox, Link, Divider } from "@nextui-org/react";
+import { Button, Input, Checkbox, Link, Divider, Spacer } from "@nextui-org/react";
 import { Icon } from "@iconify/react";
 import { FormattedMessage, useIntl } from 'react-intl';
 import { getLocalizedPathname } from "~/utils";
@@ -121,6 +121,7 @@ export default function App() {
             <FormattedMessage id="auth.signUpWithGithub" />
           </Button>
         </div>
+        <Spacer y={12} />
         <p className="text-center text-small">
           <FormattedMessage id="auth.alreadyHaveAccount" />
           &nbsp;
