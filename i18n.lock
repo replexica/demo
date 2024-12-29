@@ -1,10 +1,41 @@
 version: 1
 checksums:
   56f1d792e5cf2a49d9f48cfa2a009037:
-    "0": 1eb4a865becd4c481fe0fc5342fa171d
-    "1": e50c7ae359983791380f62fd061b3bb6
-    "2": 680f7639d6def9a224135b5a2512ebf3
-    "3": 5a11d742c157c36c3777f3daa4af33c2
+    landing.header: d063c45ecd3e1550198942f591612c63
+    landing.subheader: 4b2696d86e67a83b989804b0c40a9dbc
+    landing.cta.getStarted: 70217f3c73ff414d22893a4f13be84d6
+    landing.features.fast: 2090aa4171dc0b60735069f89b592883
+    landing.features.accurate: ae51443d033cb7dea112f957d81c9156
+    dashboard.title: bd3f5fa7c646f7f9cc8dd0025586371e
+    dashboard.subtitle: 27c516f85cc267c7438809eb09e9ccd7
+    auth.signUp: 0dd2ae69be4618c1f9e615774a4509ca
+    auth.username: 2ee65bc2dd2f12cf2672f95b2a054bf8
+    auth.enterUsername: ceca9941c44bf894fcef74b8c050d714
+    auth.emailAddress: 0ee22bbbe989a0c61a18023407d12dc2
+    auth.enterEmail: 9bc008365ebe3e404e241c8ca876f56e
+    auth.password: 223a61cf906ab9c40d22612c588dff48
+    auth.enterPassword: ea4fdd034522dead21bae0c0abb52eae
+    auth.confirmPassword: 140bae95eb2040668118c6244c4a4825
+    auth.confirmYourPassword: 224b4aa56991875af1df9d3b102de647
+    auth.agreeTerms: 5c627028f90bc51dd906abcb567e0324
+    auth.terms: 9ac262b2eda552beeecd904c0b9f8fa2
+    auth.and: ce8b9bb44f031705708a70e068bb73c8
+    auth.privacyPolicy: 7459744a63ef8af4e517a09024bd7c08
+    auth.or: 0208d355f231c386b19390f0bea41b95
+    auth.signUpWithGoogle: ae82b623c9c9f5a17b48bbbc87c8ecc2
+    auth.signUpWithGithub: ae9c2f754697be2950b17d207c41358d
+    auth.alreadyHaveAccount: 699043a787e26ec2ecad53f52df28d5b
+    auth.logIn: cb8757c7450e17de1e226e82fb0fa4a2
+    blog.title: 7feb9b36be2028520ffe37de06505148
+    blog.subtitle: 0565b350c978509c28c11991ff3e5b24
+    rootlayout.logo.alt: 47fa6b3978c1c06acc29b6cae393b0c9
+    rootlayout.nav.home: 104a3db3b671c04e167eafbe21e57881
+    rootlayout.nav.app: 77e32ac4e5a1e01bc9a6a15fdfef9bf8
+    rootlayout.nav.auth: 424e3635a6e3d9574f023c10cd5e6f62
+    rootlayout.nav.blog: 7feb9b36be2028520ffe37de06505148
+    rootlayout.button.signin: ec7b8f314fe9bc6591006707484ede61
+    rootlayout.button.signup: 0dd2ae69be4618c1f9e615774a4509ca
+    rootlayout.footer.copyright: 1848bf895ff8e58bb326629983aed9e7
   edadd08db5ea4755a3baba4cc34e572e:
     md-section-0: 41df1ef76b49a4a5b845503fb3b13680
     md-section-1: 733ea083d737659851c6e4f9d7a1a98f
