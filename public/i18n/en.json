@@ -33,5 +33,5 @@
   "rootlayout.nav.blog": "Blog",
   "rootlayout.button.signin": "Sign In",
   "rootlayout.button.signup": "Sign Up",
-  "rootlayout.footer.copyright": "{name} � {year}"
+  "rootlayout.footer.copyright": "{name} © {year}"
 }
